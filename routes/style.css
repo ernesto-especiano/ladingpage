@@ -69,8 +69,26 @@ p{
     background: #4a4a4a;
 }
 
-.main{
+.slider-1{
+    background: aquamarine;
+    text-align: center;
+    height: 100vh;
     padding-top: 12rem;
+    font-style: italic;
+}
+
+.slider-1 h1{
+    font: bold;
+    font-size: 50px;
+}
+
+.slider-1 h3{
+    font: bold;
+    font-size: 15px;
+}
+
+img{
+    width: 230px;
 }
 
 .footer {
