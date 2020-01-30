@@ -1,3 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
 body {
     font-family: georgia,'Times New Roman', Times, serif;
     color:333;
